@@ -1,0 +1,37 @@
+body{
+    background: honeydew;
+    
+} 
+
+img{
+display: block;
+width: 25%;
+margin-left: auto;
+margin-right: auto;
+} 
+
+h1{
+    text-align: center;
+    border: 1px solid #e09f3e ;
+background-color: #b5179e;
+color: white;
+} 
+
+h2{
+    color: #ffba08;
+    text-align: center;
+    } 
+    button{
+        background-color: #b5179e;
+        color: white;
+    }
+    h3{
+        text-align: center;
+    } 
+ form{
+    width: 400px;
+    margin: auto
+    padding 20x 15px;
+
+ }
+ 
